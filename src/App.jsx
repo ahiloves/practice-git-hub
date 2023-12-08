@@ -1,3 +1,4 @@
+
 import EliasMartinez from "./components/EliasMartinez";
 import ErickPatiñoJaimes from "./components/ErickPatiñoJaimes";
 import GerardoMerino from "./components/GerardoMerino";
@@ -16,7 +17,7 @@ function App(){
 <JesusAguilar />
     </main>
   );
-};
+}
 
 export default App;
 
