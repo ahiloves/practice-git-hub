@@ -1,12 +1,12 @@
-import axios from "axios";
+import ErickPatiñoJaimes from "./components/ErickPatiñoJaimes";
+
 function App(){
   return (
-    <main >
-
-    </main>
+      <main>
+        <ErickPatiñoJaimes/>
+      </main>
   );
-};
-
+}
 export default App;
 
 
