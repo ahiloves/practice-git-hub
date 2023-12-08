@@ -11,4 +11,4 @@ const AbrahamAlberto = () => {
     </article>
   )
 }
-export default abrahamAlberto
+export default AbrahamAlberto
